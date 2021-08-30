@@ -2,5 +2,5 @@
 title: "Index Page"
 ---
 
-## Index Title
 Hi!
+There's not a lot on this page, except this one: [Test Maestro](test-maestro).
